@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+*4750 Calle Las Positas apt. C-24*
+*Oceanside, Ca, 92057*
+*(760) 473 - 0855*
+*lrivera760@icloud.com*
+######**Luis Rivera**
 
-You can use the [editor on GitHub](https://github.com/lr760/CS113-Hw05-Resume/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+##**SKILLS**
+*Self-motivated individual
+*Hard working
+*Bilingual 
+*Time management skills
+*Dedicated towards getting a task done.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+##**EXPERIENCE**
+**First Year Forward PALs(FYF PALs)**, *1 Barnard Dr, Oceanside, CA 92056* — Mentor
+August 2017 - Present
+Serves as a positive social and academic role-model, by supporting mentees with their involvement on campus, personal life, and encouraging mentees to participate in recreational activities. 
 
-### Markdown
+**San Marcos Car Wash Full Servic**e, *1660 Linda Vista Dr, San Marcos, Ca 92078* — Auto Care
+June 2017 - October 2017
+Welcomed customers by greeting them, and washed/polished vehicle exterior, tires, and rims while be part of team. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Kentucky Fried Chicken(KFC)**, *3747 Mission Ave, Oceanside, CA 92058* — Team Member
+April 2014 - April 2016
+Maintained a safe and sanitized work space for both my co-workers, and customers while also providing customer services. 
+EDUCATION
 
-```markdown
-Syntax highlighted code block
+**El Camino High School**, *400 Rancho Del Oro dr, Oceanside, CA 92057* — High School Diploma
+August 2012 - December 2015
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lr760/CS113-Hw05-Resume/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**MiraCosta College**,  *1 Barnard Dr, Oceanside, CA 92056* — Bachelors Degree(In-progress) 
+January 2016 - May 2019
+**Currently Enrolled**
+  *Trigonometry
+  *Algorithm & Data Structures
+  *Group Communications 
