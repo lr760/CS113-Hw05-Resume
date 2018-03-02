@@ -3,7 +3,7 @@
 *(760) 473 - 0855*
 *lrivera760@icloud.com*
 
-###### Luis Rivera
+# Luis Rivera
 
 ## SKILLS
 *Self-motivated individual
@@ -31,8 +31,7 @@ August 2012 - December 2015
 
 **MiraCosta College**,  *1 Barnard Dr, Oceanside, CA 92056* — Bachelors Degree(In-progress) 
 January 2016 - May 2019
-Currently Enrolled|
-------------------|
-Trigonometry |
-Algorithm & Data Structures |
-Group Communications |
+Currently Enrolled: 
+* Trigonometry 
+* Algorithm & Data Structures 
+* Group Communications 
