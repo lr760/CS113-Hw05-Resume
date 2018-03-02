@@ -44,5 +44,5 @@ https://cybercoders.jobs/las-vegas-nv/programmerios-developer-ios-software-engin
 
 **...what would you love to go into work and do every day?**
 
-I see myself creatign apps for both Andriod and Apple. I want to be able to provide the youth with happies through apps on a new level of interaction, similar to PokemonGo/ Arugumentive Reality (AR). Being able to go to work everyday, and creating my wildest idea into a reality is something that excites me. I can wait to be there.
+I see myself creating apps for both Andriod and Apple. I want to be able to provide the youth with happies through apps on a new level of interaction, similar to PokemonGo/ Arugumentive Reality (AR). Being able to go to work everyday, and creating my wildest idea into a reality is something that excites me. I can wait to be there.
 
